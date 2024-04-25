@@ -1,0 +1,17 @@
+{
+    "train_points": 100,
+    "valid_points": 125,
+    "test_points": 225,
+    "dictionary": ["S", "I", "R", "I*S", "R*S", "R*I", "",
+                   "S_n", "I_n", "R_n", "I_n*S_n", "R_n*S_n", "R_n*I_n", 
+                   "S*I_n", "I*S_n", "R*S_n", "S*R_n", "I*R_n", "R*I_n"],
+    "hyper_parameters": [[0.05,0.06,0.2], [0.002,0.023,0.02]],
+    "dual_rate_multiplier": 100,
+    "nodes_supervision": true,
+    "plots": true,
+
+    "constrain": true,
+    "coeffs_increment": 0.05, 
+    "tolerance_thresholds": 3, 
+    "tolerance_epochs": 2000 
+}

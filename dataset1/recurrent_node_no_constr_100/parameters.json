@@ -1,0 +1,12 @@
+{
+    "train_points": 100,
+    "valid_points": 125,
+    "test_points": 225,
+    "hyper_parameters": [[0.002,0.0021,0.002], [12,20,12], [1,2,2]],    
+    "dual_rate_multiplier": 100,
+    "nodes_supervision": true,
+    "plots": false,
+
+    "constrain": false,
+    "tolerance_epochs": 3000 
+}

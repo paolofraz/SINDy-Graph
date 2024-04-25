@@ -1,0 +1,7 @@
+mean constr error is: 0.04292921971921858
+mean train error is: 0.0101238414645195
+mean test mse is: 0.0025961077297228926
+mean test mape is: 46.546928114012665
+mean test forecast is: 0.3684210526315789
+mean test forecast 20 is: 1.0526315789473684
+nan values: 0

@@ -1,0 +1,2 @@
+
+(0.0020,12.0000,1.0000) constr err: 0.08318768, val err: 0.00973, test mse : 0.00420 test mape : 60.96935 test forecast : 0.00000 test forecast 20 : 0.00000 time: 43.84s

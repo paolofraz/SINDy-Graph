@@ -1,0 +1,10 @@
+$\frac{d}{dt}$ & $+ -0.81(\pm 0.33) S+  0.93(\pm 0.72) I+  0.18(\pm 0.36) R+  0.04(\pm 0.18) +  0.48(\pm 0.34) S_n$\\ \hline 
+$\frac{d}{dt}$ & $+  0.84(\pm 0.46) S+ -2.02(\pm 0.75) I+ -0.63(\pm 0.33) R+  0.56(\pm 0.33) + -1.01(\pm 0.37) S_n$\\ \hline 
+$\frac{d}{dt}$ & $+ -0.51(\pm 0.37) S+  0.86(\pm 0.48) I+ -0.15(\pm 0.24) R+  0.30(\pm 0.24) +  0.14(\pm 0.41) S_n$\\ \hline 
+mean constr error is: 0.1266016062153013
+mean train error is: 0.019604391418397427
+mean test mse is: 0.0005617066551023623
+mean test mape is: 31.931945916853454
+mean test forecast is: 14.789473684210526
+mean test forecast 20 is: 35.31578947368421
+nan values: 0

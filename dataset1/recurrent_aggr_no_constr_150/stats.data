@@ -1,0 +1,4 @@
+mean train error is: 0.04581351671367884
+mean test mse is: 0.0436271824628899
+mean test mape is: 327.4532707113969
+mean test forecast is: 0.0

@@ -1,0 +1,11 @@
+$\frac{d}{dt}$ & $+ -0.31(\pm 0.02) S+  0.20(\pm 0.04) I+  0.09(\pm 0.02) R+  0.13(\pm 0.02) I*S+  0.45(\pm 0.08) R*S+ -1.05(\pm 0.12) R*I+ -0.14(\pm 0.05) + -1.07(\pm 0.11) S_n$\\ \hline 
+$\frac{d}{dt}$ & $+ -0.11(\pm 0.05) S+ -0.17(\pm 0.02) I+  0.16(\pm 0.02) R+  0.25(\pm 0.03) I*S+  0.54(\pm 0.08) R*S+ -1.05(\pm 0.11) R*I+ -0.12(\pm 0.04) + -1.07(\pm 0.11) S_n$\\ \hline 
+$\frac{d}{dt}$ & $+  0.50(\pm 0.06) S+  0.21(\pm 0.07) I+ -0.75(\pm 0.07) R+ -0.13(\pm 0.05) I*S+ -0.58(\pm 0.19) R*S+  0.94(\pm 0.16) R*I+  0.18(\pm 0.12) +  0.92(\pm 0.15) S_n$\\ \hline 
+$\frac{d}{dt}$ & $+ -0.05(\pm 0.08) S+  0.22(\pm 0.09) I+  0.50(\pm 0.06) R+ -0.26(\pm 0.04) I*S+ -0.76(\pm 0.10) R*S+  0.48(\pm 0.12) R*I+  0.80(\pm 0.15) + -0.57(\pm 0.26) S_n$\\ \hline 
+mean constr error is: 0.03809573873877525
+mean train error is: 0.026794533882486194
+mean test mse is: 0.0017558492208512402
+mean test mape is: 26.74590317826522
+mean test forecast is: 10.894736842105264
+mean test forecast 20 is: 29.0
+nan values: 0

@@ -1,0 +1,10 @@
+$\frac{d}{dt}$ & $+  0.90(\pm 0.69) I+  0.30(\pm 0.33) R+ -0.05(\pm 0.13) +  0.70(\pm 0.55) I_n+ -0.10(\pm 0.21) R_n+ -1.13(\pm 0.60) I_n*S_n+ -1.07(\pm 1.10) R_n*S_n+ -1.38(\pm 0.53) S*I_n$\\ \hline 
+$\frac{d}{dt}$ & $+  0.59(\pm 0.51) S+ -1.74(\pm 1.02) I+ -0.48(\pm 0.43) R+  0.41(\pm 0.40) + -0.50(\pm 0.62) S_n+ -1.23(\pm 0.58) I_n+ -0.13(\pm 0.22) R_n+  1.97(\pm 1.29) R_n*S_n$\\ \hline 
+$\frac{d}{dt}$ & $+  0.67(\pm 0.44) I+  0.06(\pm 0.22) R+  0.17(\pm 0.22) +  0.40(\pm 0.37) I_n+ -0.07(\pm 0.15) R_n+  0.11(\pm 0.43) I_n*S_n+ -0.06(\pm 0.50) R_n*I_n+ -0.04(\pm 0.44) S*I_n$\\ \hline 
+mean constr error is: 0.15740458549637543
+mean train error is: 0.01701164774988827
+mean test mse is: 0.0015197341432978742
+mean test mape is: 30.273702191679103
+mean test forecast is: 1.631578947368421
+mean test forecast 20 is: 9.052631578947368
+nan values: 8
